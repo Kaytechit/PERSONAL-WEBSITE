@@ -56,6 +56,10 @@ header li a:hover{
     margin-left: 40px;
 }
 
+main{
+    min-height: calc(100vh - 80px - 48px);
+}
+
 /* Hero Styling */
 #hero{
     background: linear-gradient(to bottom, #7D8CC4,#C490D1 );
